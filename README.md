@@ -2,6 +2,8 @@
 CoffeeScript Webpack Starter
 ----
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/coffee-webpack-starter-.svg)](https://greenkeeper.io/)
+
 React component template of Jianliao.
 
 Demo http://ui.talk.ai/coffee-webpack-starter
